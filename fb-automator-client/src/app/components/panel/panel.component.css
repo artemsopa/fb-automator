@@ -1,0 +1,86 @@
+.cnt-body {
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 1300px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.admin-cnt {
+    margin-left: 100px;
+    margin-right: 20px;
+    width: 300px;
+    height: 100%;
+    padding: 20px;
+}
+
+.gst-cnt {
+    width: 550px;
+    height: 500px;
+    position:relative;
+}
+
+table tr td.td2:last-child {
+    word-break: break-word;
+    width: 100%;
+}
+
+table th{
+    cursor: pointer;
+}
+
+.butt-m {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttontd {
+    width: 50px;
+}
+
+.bottompag {
+    position:absolute;
+    bottom: 0;
+}
+
+.item {
+    height: 50px;
+    background-color: white;
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid #ededed;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.textlog {
+    width: 720px;
+}
+
+.logbtncont {
+    width: 250px;
+}
+
+.logbtn {
+    justify-content: space-around;
+}
+
+.itemcol {
+    margin-bottom: 10px;
+}
+
+.inp {
+    background-color: #fcfcfc;
+}
+
+.btndec {
+    margin-right: 5px;
+}
